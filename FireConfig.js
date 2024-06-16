@@ -1,5 +1,5 @@
 
-var firebaseConfig = {
+firebaseConfig = {
     apiKey: "AIzaSyDnlYx28_Rrt1U8SqKwdhpKUT4cIeXJpKI",
     authDomain: "crud-f7d01.firebaseapp.com",
     databaseURL: "https://crud-f7d01-default-rtdb.asia-southeast1.firebasedatabase.app",
